@@ -59,12 +59,12 @@ body {
 
 .navbar-nav {
     background-color: rgba(0, 0, 0, 0.61);
-    padding: 3em;
+    padding: 0.8em;
     border-radius: 0.3em;
 }
 .nav-link {
     display: inline-block;
-    padding: auto;
+    padding: 0.12em;
     text-decoration: none;
     color: white;
 }
